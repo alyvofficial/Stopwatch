@@ -1,0 +1,9 @@
+@media screen and (max-width:767px) {
+    .time {
+        font-size: 4em;
+    }
+    footer {
+        justify-content: center;
+        height: 4vh;
+    }
+}
